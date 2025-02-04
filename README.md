@@ -1,6 +1,6 @@
 # Helminth Hatchery Fix
 
-The priority of the Helminth Hatchery post-processing is set too low and it fails to override some important settings. As a result, the stage is much darker in-game than it was in the dev logs. I assume this is a bug. This mod fixes the post-processing priority.
+The priority of the Helminth Hatchery post-processing is set too low and fails to override some important settings. As a result, the stage is much darker in-game than it was in dev logs. I assume this is a bug. This mod fixes the post-processing priority.
 
 *Thank you to qwp for bringing this to my attention*
 
