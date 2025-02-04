@@ -4,6 +4,9 @@ The priority of the Helminth Hatchery post-processing is set too low and it fail
 
 *Thank you to qwp for bringing this to my attention*
 
+## Comparison
+![before and after comparison](https://github.com/Priscillalala/HelminthFix/blob/master/media/beforeafter.png?raw=true)
+
 ## Contact
 You can find me in the [RoR2 Modding Server](https://discord.gg/5MbXZvd) @groove_salad
 
