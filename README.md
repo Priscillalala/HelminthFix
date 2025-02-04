@@ -7,7 +7,7 @@ The priority of the Helminth Hatchery post-processing is set too low and it fail
 ## Contact
 You can find me in the [RoR2 Modding Server](https://discord.gg/5MbXZvd) @groove_salad
 
-Or, you can post issues and feedback on the [GitHub](https://github.com/Priscillalala/HatcheryFix/issues)
+Or, you can post issues and feedback on the [GitHub](https://github.com/Priscillalala/HelminthFix/issues)
 
 ## Donations
 If you liked my mods, consider buying me a coffee!
