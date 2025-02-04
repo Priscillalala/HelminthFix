@@ -1,0 +1,9 @@
+{
+    "name": "HelminthHatcheryFix",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Priscillalala/HelminthFix",
+    "description": "Fix the Helminth Hatchery post-processing being much darker than intended",
+    "dependencies": [
+        "bbepis-BepInExPack-5.4.2117"
+    ]
+}
